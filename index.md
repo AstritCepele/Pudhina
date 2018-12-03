@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Pudhina
+subtitle: My name is Astrit
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,9 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I <a href="https://github.com/knhash/Pudhina"><Support</a>, Design<a href="https://github.com/knhash/Pudhina">Travel</a>.</p>
+	<p>This is a personal webiste that it is constructed on 0 costs.</p>
+	<p>Domain is supported for free by Namecheap by my previous student account.</p>
+	<p>The website is hosted on Github Pages and it runs thanks to Jeykell.</p>
+	<p>Email configuration is made through combining Gmail and MailGun.
 </div>
