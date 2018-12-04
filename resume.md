@@ -4,7 +4,7 @@ title: Résumé
 subtitle: An awesome person
 ---
 
-<span style="float: right; "><a href="{{ '/assets/Astrit's Resume.pdf' | prepend: site.baseurl }}"><strong>> Download Resume </strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/Resume.pdf' | prepend: site.baseurl }}"><strong>> Download Resume </strong></a> </span>
 <br>
 
 ### SKILLS
