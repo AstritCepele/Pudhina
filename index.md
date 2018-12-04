@@ -9,5 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/A.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>I <a href="https://github.com/knhash/Pudhina"><Support</a>, Design<a href="https://www.instagram.com/astrit.cepele">Travel</a>.</p>
+	<p>I<Support, Volunteer, Freelance, do Sports &<a href="https://www.instagram.com/astrit.cepele">Travel</a>.</p>
 </div>
