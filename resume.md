@@ -10,17 +10,20 @@ subtitle: An awesome person
 ### SKILLS
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### Freelance Projects
+**U1st.it** - Webpage - Place <span style="float: right; ">Underconstruction</span>  
+YouFirst is a consulting company based in Rome, Italy and offers consulting services for medium and big companies.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Adler.al** - Webpage - Place <span style="float: right; ">2018 span</span>  
+Adler Consulting Sh.p.k is a consulting firm based in Tirana, Albania focused on the delocalization of Italian company's to Albania.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**BalkanTrade.al** - Webpage & Logo Design - Place <span style="float: right; ">2018 span</span>  
+Balkan Trade Sh.p.k is based in Tirana, Albania manages the sales and marketing processes of IT and multimedia products.
 
-### EDUCATION
+**Leafactory.it** - Webpage- Place <span style="float: right; ">2018 span</span>  
+Balkan Trade Sh.p.k is based in Milan, Italy and helps startup business in agriculture industry.
+
+### VOLUNTEER
 
 Institute <span style="float: right; ">Duration</span>  
 **Course**  
