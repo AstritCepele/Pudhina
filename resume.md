@@ -11,16 +11,16 @@ subtitle: An awesome person
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
 
 ### Freelance Projects
-**U1st.it** - Webpage - Place <span style="float: right; ">Underconstruction</span>  
+<a href="https://u1st.it">**U1st.it**</a> - Webpage<span style="float: right; ">Underconstruction</span>  
 YouFirst is a consulting company based in Rome, Italy and offers consulting services for medium and big companies.
 
-**Adler.al** - Webpage - Place <span style="float: right; ">2018 span</span>  
+**Adler.al** - Webpage<span style="float: right; ">2018</span>  
 Adler Consulting Sh.p.k is a consulting firm based in Tirana, Albania focused on the delocalization of Italian company's to Albania.
 
-**BalkanTrade.al** - Webpage & Logo Design - Place <span style="float: right; ">2018 span</span>  
+**BalkanTrade.al** - Webpage & Logo Design<span style="float: right; ">2018</span>  
 Balkan Trade Sh.p.k is based in Tirana, Albania manages the sales and marketing processes of IT and multimedia products.
 
-**Leafactory.it** - Webpage- Place <span style="float: right; ">2018 span</span>  
+**Leafactory.it** - Webpage<span style="float: right; ">2018</span>  
 Balkan Trade Sh.p.k is based in Milan, Italy and helps startup business in agriculture industry.
 
 ### VOLUNTEER
