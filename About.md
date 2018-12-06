@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: Here is me
+subtitle: Another ordinary human
 ---
 
 <span style="float: right; "><a href="{{ '/assets/Resume.pdf' | prepend: site.baseurl }}"><strong>> Check my Resume </strong></a> </span>
