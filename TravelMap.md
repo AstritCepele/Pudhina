@@ -262,8 +262,8 @@ var pin_config = {
     {
         'shape':'circle',
         'hover': 'I\'m from Fier, Albania',
-        'pos_X':400,
-        'pos_Y':175,
+        'pos_X':507,
+        'pos_Y':141,
         'diameter':12,
         'outline':'#FFCECE',
         'thickness':1,
