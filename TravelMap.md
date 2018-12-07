@@ -261,9 +261,9 @@ var pin_config = {
 
     {
         'shape':'circle',
-        'hover': 'I\'m from Hangzhou, China',
-        'pos_X':820,
-        'pos_Y':185,
+        'hover': 'I\'m from Fier, Albania',
+        'pos_X':400,
+        'pos_Y':175,
         'diameter':12,
         'outline':'#FFCECE',
         'thickness':1,
