@@ -7,7 +7,7 @@
 -
   index: 'map_2'
   country_name: 'ALBANIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_3'
@@ -42,7 +42,7 @@
 -
   index: 'map_9'
   country_name: 'AUSTRIA'
-  visited: true
+  visited: false
 
 -
   index: 'map_10'
@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: false
 
 -
   index: 'map_34'
@@ -202,7 +202,7 @@
 -
   index: 'map_41'
   country_name: 'CZECH REPUBLIC'
-  visited: true
+  visited: false
 
 -
   index: 'map_42'
@@ -277,7 +277,7 @@
 -
   index: 'map_56'
   country_name: 'FRANCE'
-  visited: true
+  visited: false
 
 -
   index: 'map_57'
@@ -297,7 +297,7 @@
 -
   index: 'map_60'
   country_name: 'GERMANY'
-  visited: true
+  visited: false
 
 -
   index: 'map_61'
@@ -307,7 +307,7 @@
 -
   index: 'map_62'
   country_name: 'GREECE'
-  visited: false
+  visited: true
 
 -
   index: 'map_63'
@@ -347,7 +347,7 @@
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: false
+  visited: true
 
 -
   index: 'map_71'
@@ -387,7 +387,7 @@
 -
   index: 'map_78'
   country_name: 'ITALY'
-  visited: true
+  visited: false
 
 -
   index: 'map_79'
@@ -417,7 +417,7 @@
 -
   index: 'map_84'
   country_name: 'KOSOVO'
-  visited: false
+  visited: true
 
 -
   index: 'map_85'
@@ -477,7 +477,7 @@
 -
   index: 'map_96'
   country_name: 'MACEDONIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_97'
@@ -537,7 +537,7 @@
 -
   index: 'map_108'
   country_name: 'MONTENEGRO'
-  visited: false
+  visited: true
 
 -
   index: 'map_109'
@@ -662,7 +662,7 @@
 -
   index: 'map_133'
   country_name: 'ROMANIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_134'
@@ -772,7 +772,7 @@
 -
   index: 'map_155'
   country_name: 'SWITZERLAND'
-  visited: true
+  visited: false
 
 -
   index: 'map_156'
@@ -827,7 +827,7 @@
 -
   index: 'map_166'
   country_name: 'TURKEY'
-  visited: false
+  visited: true
 
 -
   index: 'map_167'
@@ -852,12 +852,12 @@
 -
   index: 'map_171'
   country_name: 'UNITED KINGDOM'
-  visited: true
+  visited: false
 
 -
   index: 'map_172'
   country_name: 'UNITED STATES'
-  visited: true
+  visited: false
 
 -
   index: 'map_173'
