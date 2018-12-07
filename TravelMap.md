@@ -13,7 +13,7 @@ css: [../plugins/travelmap/css/custom.css']
 <link rel="stylesheet" href="{{site.baseurl}}/assets/plugins/travelmap/css/custom.css"/>
 
 </head>
-
+<br>
 <div class="row">
     <div class="container">
 <table>
@@ -33,7 +33,7 @@ css: [../plugins/travelmap/css/custom.css']
 </table>
 </div>
 </div>
-
+</br>
 <div class="row">
 <div class="map-preview">
   <div class="container">
