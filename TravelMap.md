@@ -33,7 +33,6 @@ css: [../plugins/travelmap/css/custom.css']
 </table>
 </div>
 </div>
-</br>
 <div class="row">
 <div class="map-preview">
   <div class="container">
