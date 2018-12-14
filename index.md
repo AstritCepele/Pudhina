@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Astrit
+subtitle: My personal website
 sitemap:
   priority: 0.9
 ---
