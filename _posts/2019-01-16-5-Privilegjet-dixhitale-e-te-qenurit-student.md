@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "5 perfitimet software falas si student"
-subtitle: "Privilegjet e te paturit te nje e-maili .edu"
+title: "5 Privilegjet dixhitale e te qenurit student"
+subtitle: "Perfitimet e te paturit te nje e-maili .edu"
 date:   2019-01-16
 author: "Astrit Cepele"
 meta: ""
