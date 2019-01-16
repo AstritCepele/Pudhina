@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "5 Perfitimet dixhitale e te qenurit student"
-subtitle: "Privilegjet e te paturit te nje e-maili .edu"
+title: "5 Perfitimet dixhitale i te qenurit student"
+subtitle: "Privilegjet te paturit te nje e-maili .edu"
 date:   2019-01-16
 author: "Astrit Cepele"
 meta: ""
