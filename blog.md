@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Blogu i nje IT
+title: Blogu
+subtitle: i nje IT
 ---
 
 <div>
