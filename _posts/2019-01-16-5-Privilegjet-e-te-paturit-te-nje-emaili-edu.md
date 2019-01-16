@@ -10,6 +10,7 @@ Të jesh student është PRIVILEGJ. Abonet e autobuzave, jeta e konviktit dhe mu
 Diku mes privilegjeve është dhe të paturit të një e-maili **.edu**. Fatkeqësisht askush nuk e hapi kutinë e Pandorës ne fakultet ose e mbajti vetëm për vete. Mund te besh mbrekullira dhe jo vetëm të shkarkosh 5 here paketën office ose te komunikosh me kabinetin e universitetit.
 
 Po hajde mo, si student qe protestoj vetëm per armet kimike, jemi mësuar ti lem gjërat pas dhe te themi qe “Shkolla te mëson si te mesosh”. 
+
 Çfarë mësova une që mund te besh më një e-mailin **.edu**. (Opo shyqyr qe nuk i mbyllin):
 
 ## 1. 1-Terrabyte memorje online ne One Drive. 
