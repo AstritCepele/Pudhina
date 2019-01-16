@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "5 Privilegjet dixhitale e te qenurit student"
-subtitle: "Perfitimet e te paturit te nje e-maili .edu"
+title: "5 Perfitimet dixhitale e te qenurit student"
+subtitle: "Privilegjet e te paturit te nje e-maili .edu"
 date:   2019-01-16
 author: "Astrit Cepele"
 meta: ""
@@ -21,7 +21,7 @@ Mund ta përdorësh per te ruajtur foto te udhëtimeve, dokumenta te vjetra, bac
 ## 2. Shkarkimi 5 here te paketës Office falas.
 S'ke pse merresh më të gjetur “product – key” online/crack-ime.
 
-## 3. GitHub Student Pack
+## 3. [GitHub Student Pack](https://education.github.com/pack)
 Per aspirantet e programimit, administratorët e rrjetit, IT, Inxhinierët, FTI-stat, kjo eshtë me e rëndësishmja. Mundesi pa fund nga trajnimet, domainet, e-mailet, hosting deri ne lehtësira transaksionesh.
 
 Në një kohe kur CV-ve dhe Resume-ve po mbivendosen nga faqet e personale të Webit, me nje çik mundim mund te bësh te tënden FALAS:
@@ -32,17 +32,20 @@ Në një kohe kur CV-ve dhe Resume-ve po mbivendosen nga faqet e personale të W
 
 *Ky website astritcepele.me është bërë me kosto 0Leke:*
 
-**Listen e plotë te mundësive te tjera nga bashkëpunimet e GitHub:**
-https://education.github.com/pack
+[Lista e plotë e mundësive te tjera nga bashkëpunimet e GitHub](https://education.github.com/pack)
 
 ## 4. Autodesk: AutoCAD, 3DS MAX, FUSION 360 etj.
 
-*Lista e plote:*
-https://www.autodesk.com/education/free-software/featured
+[*Lista e plote e sherbimeve*](https://www.autodesk.com/education/free-software/featured)
 
+## 5. [Amazon Student Pack](https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=studentWlpPrimeRedir&ref_=as_li_ss_tl&ref_=st_wlp_pr_redir&tag=techforus-20)
+Amazon dhuron çdo kujt që ka një email .edu një akses në Amazon Prime për 6 muaj.
+- Oferta speciale në Amazon
+- Hapësirë memorje për foto
+- TV-shows, filma dhe muzike
 
 Ka dhe shumë mundësi te tjera si ulje ne Adobe, New York Times, Washington-Post, etj. Përderisa stafi i universteteve nuk i mbyll e-mailet edhe pas mbarimit te studimeve, kjo te lejon ti perdoresh edhe ne nje moment kur do të kursesh diçka. 
 
 **Nëse je student dhe nuk ke e-mail *.edu* ende, atëherë duhet ta shtosh te kërkesat e tua te protestës.**
 
-*Per çdo informacion tjetër/ndihmëse me shkruani: email[at]astritcepele.me*
+*Per çdo informacion tjetër/ndihmëse ne perdorim: email[at]astritcepele.me*
