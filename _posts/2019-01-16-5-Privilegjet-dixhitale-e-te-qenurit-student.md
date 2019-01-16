@@ -21,7 +21,7 @@ Mund ta përdorësh per te ruajtur foto te udhëtimeve, dokumenta te vjetra, bac
 ## 2. Shkarkimi 5 here te paketës Office falas.
 S'ke pse merresh më të gjetur “product – key” online/crack-ime.
 
-## 3. [GitHub Student Pack](https://education.github.com/pack)
+## 3. GitHub Student Pack
 Per aspirantet e programimit, administratorët e rrjetit, IT, Inxhinierët, FTI-stat, kjo eshtë me e rëndësishmja. Mundesi pa fund nga trajnimet, domainet, e-mailet, hosting deri ne lehtësira transaksionesh.
 
 Në një kohe kur CV-ve dhe Resume-ve po mbivendosen nga faqet e personale të Webit, me nje çik mundim mund te bësh te tënden FALAS:
@@ -36,13 +36,16 @@ Në një kohe kur CV-ve dhe Resume-ve po mbivendosen nga faqet e personale të W
 
 ## 4. Autodesk: AutoCAD, 3DS MAX, FUSION 360 etj.
 
-[*Lista e plote e sherbimeve*](https://www.autodesk.com/education/free-software/featured)
+[Lista e plote e sherbimeve](https://www.autodesk.com/education/free-software/featured)
 
-## 5. [Amazon Student Pack](https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=studentWlpPrimeRedir&ref_=as_li_ss_tl&ref_=st_wlp_pr_redir&tag=techforus-20)
+## 5. Amazon Student Pack
 Amazon dhuron çdo kujt që ka një email .edu një akses në Amazon Prime për 6 muaj.
 - Oferta speciale në Amazon
 - Hapësirë memorje për foto
 - TV-shows, filma dhe muzike
+
+[Lista e plote e sherbimeve](https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=studentWlpPrimeRedir&ref_=as_li_ss_tl&ref_=st_wlp_pr_redir&tag=techforus-20)
+
 
 Ka dhe shumë mundësi te tjera si ulje ne Adobe, New York Times, Washington-Post, etj. Përderisa stafi i universteteve nuk i mbyll e-mailet edhe pas mbarimit te studimeve, kjo te lejon ti perdoresh edhe ne nje moment kur do të kursesh diçka. 
 
