@@ -22,9 +22,9 @@ Mund ta përdorësh per te ruajtur foto te udhëtimeve, dokumenta te vjetra, bac
 S'ke pse merresh më të gjetur “product – key” online/crack-ime.
 
 ## 3. GitHub Student Pack
-Per aspirantet programuesit, administratorët e rrjetit, IT, Inxhinierëte, FTI, kjo ehtë me e rëndësishme. Mundesi pa fund nga te trajnimet, te domainet, e-mailet, hosting deri ne lehtësira transaksionesh.
+Per aspirantet e programimit, administratorët e rrjetit, IT, Inxhinierët, FTI-stat, kjo eshtë me e rëndësishmja. Mundesi pa fund nga trajnimet, domainet, e-mailet, hosting deri ne lehtësira transaksionesh.
 
-Në një kohe kur CV-ve dhe Resume-ve po mbivendosen nga faqet e personale të Webit me nje çik mundim, mund te bësh te tënden FALAS:
+Në një kohe kur CV-ve dhe Resume-ve po mbivendosen nga faqet e personale të Webit, me nje çik mundim mund te bësh te tënden FALAS:
 
 ### Hosting: GitHub (Teknologji JeyKell – Faqje Statike)
 ### Domainin: namecheap
