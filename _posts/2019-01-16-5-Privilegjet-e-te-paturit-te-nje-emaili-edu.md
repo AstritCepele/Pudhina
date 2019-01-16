@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "5 sherbime falas si student"
+title: "5 perfitimet software falas si student"
 subtitle: "Privilegjet e te paturit te nje e-maili .edu"
 date:   2019-01-16
 author: "Astrit Cepele"
