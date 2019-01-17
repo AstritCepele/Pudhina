@@ -60,7 +60,7 @@ Disa prej tyre janë:
 
 ## 7. Jetbrains Student Pack
 
-Për të gjithë sytë kritike kjo është permendur në listen e pikës **3** si pjesë e bashkëpunimeve të GitHub, kjo meriton seksionin e vete në këtë listim. Aktualisht, kjo është një nga paketat më të përdora nga programuesit ne *Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, ose .NET* që janë student, por që operojnë dhe në tregun e punës. (mjafton të kësh një e-mail **.edu**)
+Për të gjithë sytë kritike, ky benefit është permendur në listen e pikës **3** si pjesë e bashkëpunimeve të GitHub, por meriton seksionin e vete në këtë listim. Aktualisht, është një nga paketat më të përdora nga programuesit ne *Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, ose .NET* që janë student, por që operojnë dhe në tregun e punës. (mjafton të kësh një e-mail **.edu**)
 
 [Lista e plote e sherbime](https://www.jetbrains.com/student/)
 
