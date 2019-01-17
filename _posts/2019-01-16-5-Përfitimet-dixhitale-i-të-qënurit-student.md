@@ -46,6 +46,24 @@ Amazon dhuron çdo kujt që ka një email .edu një akses në Amazon Prime për 
 
 [Lista e plote e sherbimeve](https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=studentWlpPrimeRedir&ref_=as_li_ss_tl&ref_=st_wlp_pr_redir&tag=techforus-20)
 
+# Update
+
+## 6. Visual Studio Dev Essentials
+
+Microsoft ka zgjeruar gamën e paketave në ndihmë të studentëve dukë i ofruar shërbime cloud, softuerë, trajnime.
+Disa prej tyre janë:
+- Azure free account (includes 1 yr of free services, $200 for 1st month)
+- SQL Server Developer Edition
+- LinkedIn Learning
+
+[Lista e plote e sherbimeve](https://visualstudio.microsoft.com/dev-essentials/)
+
+## 7. Jetbrains Student Pack
+
+Sado që është permendur në listen e pikës **3** si pjesë e bashkëpunimeve të GitHub, kjo meriton seksionin e vete në këtë listim. Aktualisht, kjo është një nga paketat më të përdora nga programuesit ne *Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET* që janë student, por që operojnë dhe në tregun e punës.
+
+
+[Lista e plote e sherbime](https://www.jetbrains.com/student/)
 
 Ka dhe shumë mundësi te tjera si ulje ne Adobe, New York Times, Washington-Post, etj. Përderisa stafi i universteteve nuk i mbyll e-mailet edhe pas mbarimit te studimeve, kjo te lejon ti perdoresh edhe ne nje moment kur do të kursesh diçka. 
 
